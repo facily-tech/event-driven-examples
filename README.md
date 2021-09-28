@@ -1,0 +1,1 @@
+Create a folder with the example in the root.
